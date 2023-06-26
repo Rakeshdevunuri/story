@@ -22,7 +22,7 @@ It is a simple Javascript project which calculates our age in years.
 - Download or clone the repository
 
 ```
-https://github.com/Rakeshdevunuri/story3.git
+https://github.com/Rakeshdevunuri/story.git
 ```
 
 - Go to the directory
